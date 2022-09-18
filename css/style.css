@@ -103,7 +103,7 @@ header {
 .img1 {
   display: flex;
   justify-content: center;
-  margin-top: 0.75rem;
+
   
 
 }
@@ -115,7 +115,7 @@ header {
   text-align: center;
   line-height: 5rem;
   font-size: 2rem;
-  justify-content: space-between;
+  
 }
 .img2 {
   display: flex;
@@ -173,7 +173,7 @@ text-align: center;
   .img1 {
     margin-right: 0.75rem;
     margin-left: 0.75rem;
-    justify-content: space-around;
+    
 
   }
   .menu-bar {
